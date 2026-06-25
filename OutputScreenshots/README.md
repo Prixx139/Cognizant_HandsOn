@@ -1,1 +1,0 @@
-Output screenshots folder
